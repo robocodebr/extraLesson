@@ -1,6 +1,10 @@
 {
     "users":[
-        {},
+        {
+            "user": "USER",
+            "id": 1,
+            "gender": true
+        },
         {}
     ]
 }
